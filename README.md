@@ -6,3 +6,4 @@
 # https://blog.sionic.ai/vector-database-practice
 
 - https://hotorch.tistory.com/414
+- https://velog.io/@bbkyoo/pgVector
