@@ -7,3 +7,8 @@
 
 - https://hotorch.tistory.com/414
 - https://velog.io/@bbkyoo/pgVector
+
+
+- https://kserve.github.io/website/0.7/modelserving/kafka/kafka/
+
+- ray on vllm
