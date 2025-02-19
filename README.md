@@ -12,3 +12,6 @@
 - https://kserve.github.io/website/0.7/modelserving/kafka/kafka/
 
 - ray on vllm
+
+
+오퍼레티어로 개발환경 구성
