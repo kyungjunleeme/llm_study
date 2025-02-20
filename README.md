@@ -19,3 +19,11 @@
 
 vllm 뒤의 fastapi 구조
 https://github.com/vllm-project/vllm/issues/3747
+
+triton과 vllm 비교
+https://github.com/vllm-project/vllm/discussions/240
+
+API performance 
+https://github.com/vllm-project/vllm/issues/1677
+
+https://pangyoalto.com/pagedattetion-review/
