@@ -6,6 +6,8 @@
 - https://www.devyummi.com/page?id=6736691653bb9c343eb5c884
 - https://github.com/lm-sys/FastChat/blob/main/fastchat/serve/vllm_worker.py
 
+### FastAPI
+- https://lsjsj92.tistory.com/668
 
 # vector db 공부하기
 # https://blog.sionic.ai/vector-database-practice
