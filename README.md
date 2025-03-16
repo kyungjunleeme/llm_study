@@ -1,6 +1,11 @@
 # llm_study
 2025년 처음으로 만든 repo
 
+### 다중 응답처리
+- https://www.youtube.com/watch?v=axpyu_yfLWo
+- https://www.devyummi.com/page?id=6736691653bb9c343eb5c884
+- https://github.com/lm-sys/FastChat/blob/main/fastchat/serve/vllm_worker.py
+
 
 # vector db 공부하기
 # https://blog.sionic.ai/vector-database-practice
